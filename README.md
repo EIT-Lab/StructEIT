@@ -6,7 +6,7 @@
 
 `tutorial_1` demonstrates how to use the dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
 
-Taking **lung imaging** as an example:
+Taking *LIDC-IDRI-0001* as an example:
 
 - **Fig. 1** shows the thoracic model used in the forward problem.
 - **Fig. 2** shows the reconstructed image obtained using the **Sheffield sensitivity-based reconstruction method**.
