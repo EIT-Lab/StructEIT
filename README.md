@@ -1,1 +1,45 @@
 # StructEIT
+
+# StructEIT Tutorial 1
+
+**StructEIT** is a project that generates FEM datasets suitable for Electrical Impedance Tomography (EIT) from CT scans.
+
+`tutorial_1` demonstrates how to use this dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
+
+Taking **lung imaging** as an example:
+
+- **Fig. 1** shows the thoracic model used in the forward problem.
+- **Fig. 2** shows the reconstructed image obtained using the **Sheffield sensitivity-based reconstruction method**.
+
+<p align="center">
+  <img src="./img/fig1_forward_model.png" alt="Forward thoracic model" width="45%">
+  <img src="./img/fig2_reconstruction.png" alt="Sheffield reconstruction result" width="45%">
+</p>
+
+---
+
+## Prerequisites
+
+Before running this tutorial, you **must** have a working **EIDORS** environment installed.
+
+This project is compatible with the following EIDORS versions:
+
+- `eidors-v3.10-ng`
+- `eidors-v3.12-ng`
+
+---
+
+## Dataset Notes
+
+This project uses a **Chest-EIT dataset** generated from publicly available CT scan datasets:
+
+- **LIDC-IDRI**
+- **NSCLC**
+
+Please note that **not all CT scans correspond to healthy subjects**.  
+For example, some cases (e.g., *LUNG1-362*) contain missing or abnormal anatomical regions.
+
+Users are advised to **carefully screen and select samples** according to the specific requirements of their own research or application.
+
+---
+
