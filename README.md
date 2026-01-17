@@ -4,7 +4,7 @@
 
 **StructEIT** is a project that generates FEM datasets suitable for Electrical Impedance Tomography (EIT) from CT scans.
 
-`tutorial_1` demonstrates how to use this dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
+`tutorial_1` demonstrates how to use the dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
 
 Taking **lung imaging** as an example:
 
@@ -31,7 +31,7 @@ This project is compatible with the following EIDORS versions:
 
 ## Dataset Notes
 
-This project uses a **Chest-EIT dataset** generated from publicly available CT scan datasets:
+This project generates the **Chest-EIT dataset** using  publicly available CT scan datasets:
 
 - **LIDC-IDRI**
 - **NSCLC**
