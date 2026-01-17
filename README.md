@@ -12,8 +12,8 @@ Taking **lung imaging** as an example:
 - **Fig. 2** shows the reconstructed image obtained using the **Sheffield sensitivity-based reconstruction method**.
 
 <p align="center">
-  <img src="./img/fig1_forward_model.png" alt="Forward thoracic model" width="45%">
-  <img src="./img/fig2_reconstruction.png" alt="Sheffield reconstruction result" width="45%">
+  <img src="./img/FEM_1.tif" alt="Forward thoracic model" width="45%">
+  <img src="./img/recon_1.tif" alt="Sheffield reconstruction result" width="45%">
 </p>
 
 ---
@@ -41,5 +41,16 @@ For example, some cases (e.g., *LUNG1-362*) contain missing or abnormal anatomic
 
 Users are advised to **carefully screen and select samples** according to the specific requirements of their own research or application.
 
+
+<p align="center">
+  <img src="./img/CT_scans.png" alt="ct_scans" width="30%">
+  <img src="./img/FEM_2.tif" alt="Sheffield reconstruction result" width="30%">
+  <img src="./img/recon_2.tif" alt="Sheffield reconstruction result" width="30%">
+</p>
+
+
 ---
+
+
+
 
