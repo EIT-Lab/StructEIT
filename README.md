@@ -39,7 +39,7 @@ This project generates the **Chest-EIT dataset** using  publicly available CT sc
 Please note that **not all CT scans correspond to healthy subjects**.  
 For example, some cases (e.g., *LUNG1-362*) contain missing or abnormal anatomical regions.
 
-Users are advised to **carefully screen and select samples** according to the specific requirements of their own research or application.
+Users are advised to **carefully select samples** according to the specific requirements of their own research or application.
 
 
 <p align="center">
