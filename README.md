@@ -1,10 +1,9 @@
 # StructEIT
 
-# StructEIT Tutorial 1
 
 **StructEIT** is a project that generates FEM datasets suitable for Electrical Impedance Tomography (EIT) from CT scans.
 
-`tutorial_1` demonstrates how to use the dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
+*Tutorial_1.m* demonstrates how to use the dataset together with **EIDORS** to perform **forward** and **inverse** EIT computations.
 
 Taking *LIDC-IDRI-0001* as an example:
 
