@@ -12,8 +12,8 @@ Taking **lung imaging** as an example:
 - **Fig. 2** shows the reconstructed image obtained using the **Sheffield sensitivity-based reconstruction method**.
 
 <p align="center">
-  <img src="./img/FEM_1.tif" alt="Forward thoracic model" width="45%">
-  <img src="./img/recon_1.tif" alt="Sheffield reconstruction result" width="45%">
+  <img src="./imgs/FEM_1.png" alt="Forward thoracic model" width="45%">
+  <img src="./imgs/recon_1.png" alt="Sheffield reconstruction result" width="45%">
 </p>
 
 ---
@@ -43,9 +43,9 @@ Users are advised to **carefully screen and select samples** according to the sp
 
 
 <p align="center">
-  <img src="./img/CT_scans.png" alt="ct_scans" width="30%">
-  <img src="./img/FEM_2.tif" alt="Sheffield reconstruction result" width="30%">
-  <img src="./img/recon_2.tif" alt="Sheffield reconstruction result" width="30%">
+  <img src="./imgs/CT_scans.png" alt="ct_scans" width="30%">
+  <img src="./imgs/FEM_2.png" alt="Sheffield reconstruction result" width="30%">
+  <img src="./imgs/recon_2.png" alt="Sheffield reconstruction result" width="30%">
 </p>
 
 
